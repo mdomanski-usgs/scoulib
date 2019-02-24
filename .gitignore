@@ -57,3 +57,6 @@ CMakeCache.txt
 build/
 Makefile
 *.cmake
+
+# VSCode
+.vscode/
