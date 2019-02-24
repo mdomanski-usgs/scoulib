@@ -1,5 +1,3 @@
 add_subdirectory(cii)
-add_library(sizedistribution PRIVATE sizedistribution.c sizedistribution.h)
+add_library(sizedistribution STATIC sizedistribution.c)
 target_link_libraries(sizedistribution PRIVATE assert except mem)
-# target_include_directories(sizedistribution PUBLIC ../include)
-# target_include_directories(scoulib PRIVATE cii)

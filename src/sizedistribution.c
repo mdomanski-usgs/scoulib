@@ -1,6 +1,6 @@
-#include "sizedistribution.h"
 #include "cii/assert.h"
 #include "cii/mem.h"
+#include <scoulib/sizedistribution.h>
 
 #define T SizeDistribution_T
 
