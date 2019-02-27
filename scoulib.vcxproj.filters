@@ -30,16 +30,8 @@
     <ClCompile Include="src\cii\mem.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="src\cii\assert.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="src\cii\except.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="src\cii\mem.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
+    <ClCompile Include="tests\Test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -63,4 +63,4 @@ Makefile
 
 # VS
 .vs/
-CMakeSettings.json
+x64/
