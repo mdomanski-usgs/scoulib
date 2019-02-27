@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="app\app.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="src\sizedistribution.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -32,13 +29,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\cii\assert.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="src\cii\except.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="src\cii\mem.h">
+    <ClInclude Include="include\scoulib\sizedistribution.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
