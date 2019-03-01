@@ -315,4 +315,3 @@ dkms.conf
 
 # VSCode
 .vscode/
-/app/app.c
